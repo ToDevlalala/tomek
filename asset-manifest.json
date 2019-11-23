@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tomek/static/css/main.fe7a4c78.chunk.css",
+    "main.js": "/tomek/static/js/main.3ec4f014.chunk.js",
+    "main.js.map": "/tomek/static/js/main.3ec4f014.chunk.js.map",
+    "runtime-main.js": "/tomek/static/js/runtime-main.d8810780.js",
+    "runtime-main.js.map": "/tomek/static/js/runtime-main.d8810780.js.map",
+    "static/js/2.0997baeb.chunk.js": "/tomek/static/js/2.0997baeb.chunk.js",
+    "static/js/2.0997baeb.chunk.js.map": "/tomek/static/js/2.0997baeb.chunk.js.map",
+    "index.html": "/tomek/index.html",
+    "precache-manifest.a067f99f12c2604b124a62d487a49589.js": "/tomek/precache-manifest.a067f99f12c2604b124a62d487a49589.js",
+    "service-worker.js": "/tomek/service-worker.js",
+    "static/css/main.fe7a4c78.chunk.css.map": "/tomek/static/css/main.fe7a4c78.chunk.css.map",
+    "static/media/logo.svg": "/tomek/static/media/logo.25bf045c.svg",
+    "static/media/yt-logo.png": "/tomek/static/media/yt-logo.7dcbaaed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8810780.js",
+    "static/js/2.0997baeb.chunk.js",
+    "static/css/main.fe7a4c78.chunk.css",
+    "static/js/main.3ec4f014.chunk.js"
+  ]
+}
